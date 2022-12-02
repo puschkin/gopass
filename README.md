@@ -65,7 +65,7 @@ Note: You might need to run `dnf copr enable daftaupe/gopass` first.
 ### Arch Linux
 
 ```shell
-pacmsn -S gopass
+pacman -S gopass
 ```
 
 ### Windows
